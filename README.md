@@ -3,7 +3,7 @@
 ```js
 class Serkan {
   constructor(...options) {
-    this.height = "1.80"
+    this.height = "1.78"
     this.weight = "75"
     this.type = "human"
     this.job = "student"
