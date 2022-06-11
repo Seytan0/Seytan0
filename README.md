@@ -42,5 +42,5 @@ class Ozan {
 ![Seytan's github stats](https://github-readme-stats.vercel.app/api?username=Seytan0&show_icons=true&theme=merko)
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Seytan0&theme=radical%22/%3E
+<img src="https://github-profile-trophy.vercel.app/?username=Seytan&theme=radical%22/%3E
 </p>
