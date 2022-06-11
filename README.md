@@ -24,9 +24,9 @@ class Ozan {
 
 <h3>Kişisel hesaplarım:</h3>
 <p align="left">
-<a href="https://discord.com/users/438757131819286529" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white%22%3E</a>
-<a href="https://instagram.com/icbinseytan" target"blank"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white%22%3E</a>
-<a href="https://sptfy.com/seytan" target"blank"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white%22%3E</a>
+<a href="https://discord.com/users/966406212176445532" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white%22%3E</a>
+<a href="https://instagram.com/serkan_grcn" target"blank"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white%22%3E</a>
+<a href="https://sptfy.com/Soullshu" target"blank"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white%22%3E</a>
 
 
 # Ziyaretçi
