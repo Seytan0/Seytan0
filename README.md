@@ -1,4 +1,5 @@
 # Hi there , I'm Ozan
+```js
 
 class Ozan {
   constructor(...options) {
@@ -9,7 +10,7 @@ class Ozan {
     this.sex = "male"
   }
 }
-
+```
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/438757131819286529)](https://discord.com/users/438757131819286529) <br><br> 
 
 ## Bildiğim ve öğrenmeye çalıştığım diller
