@@ -1,7 +1,7 @@
 # Hi there , I'm Ozan
 
 ```js
-class Serkan {
+class Ozan {
   constructor(...options) {
     this.height = "1.78"
     this.weight = "75"
