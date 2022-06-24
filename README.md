@@ -22,11 +22,6 @@ class Ozan {
 <img alt="Nodejs" align="center" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"/>
 </div>
 
-<h3>Kişisel hesaplarım:</h3>
-<p align="left">
-<a href="https://discord.com/users/438757131819286529" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://instagram.com/icbinseytan" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://sptfy.com/seytan" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 
 
 # Ziyaretçi  
